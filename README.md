@@ -4,9 +4,9 @@
 
 ### PART. Frontend (APP)
 
-[Backend : Algoritm + Server Part](https://github.com/PROMLEE/Indoor_map_algorithm)  
+[Backend : Algoritm + Server Part](https://github.com/easthee/INdoor_Server)  
 
-[부가기능: React Part](https://github.com/PROMLEE/Indoor_map_react)  
+[부가기능: React Part](https://github.com/easthee/INdoor_Extra)  
 <!-- [Frontend : ](https://github.com/PROMLEE/Indoor_map_flutter)   -->
 
 ![Icon](src/ic_launcher.png)  
